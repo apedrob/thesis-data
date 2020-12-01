@@ -1,0 +1,273 @@
+{
+  "data": [
+    {
+      "title": "Quando devo retirar o gesso?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quanto retiro o gesso?",
+              "id": 38724,
+              "answers": [
+                {
+                  "answer_id": 39085,
+                  "document_id": 42022,
+                  "question_id": 38724,
+                  "text": "são retirados apenas por profissionais de saúde",
+                  "answer_start": 22,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo vou estar com o gesso?",
+              "id": 38726,
+              "answers": [
+                {
+                  "answer_id": 39086,
+                  "document_id": 42022,
+                  "question_id": 38726,
+                  "text": "apenas após indicação médica",
+                  "answer_start": 178,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Os aparelhos gessados são retirados apenas por profissionais de saúde. Por vezes é utilizada uma serra elétrica de lâmina circular oscilatória no caso dos aparelhos completos, e apenas após indicação médica.",
+          "document_id": 42022
+        }
+      ]
+    },
+    {
+      "title": "O que são aparelhos gessados?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Tem de ser intervencionada cirurgicamente obrigatoriamente?",
+              "id": 38713,
+              "answers": [
+                {
+                  "answer_id": 39090,
+                  "document_id": 42020,
+                  "question_id": 38713,
+                  "text": "A sua colocação é da exclusiva competência médica",
+                  "answer_start": 527,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que outras formas de correção?",
+              "id": 38715,
+              "answers": [
+                {
+                  "answer_id": 39091,
+                  "document_id": 42020,
+                  "question_id": 38715,
+                  "text": "ser usados como ajuda após cirurgia",
+                  "answer_start": 633,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Existe outra opção de tratamento em vez do gesso?",
+              "id": 38714,
+              "answers": [
+                {
+                  "answer_id": 39092,
+                  "document_id": 42020,
+                  "question_id": 38714,
+                  "text": "cirurgia",
+                  "answer_start": 660,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Os aparelhos gessados podem ser completos (a envolver o membro todo) ou parciais (talas gessadas). Estes aparelhos são dispositivos rígidos de imobilização externa, que envolvem uma região do corpo de forma a mantê-la numa posição adequada/correta após a redução da fratura óssea. \nMantêm os ossos na posição anatómica enquanto as fraturas consolidam (colam).\nAjudam na proteção dos tecidos moles traumatizados (pele, músculos e nervos).\nAjudam a reduzir a dor, o edema (inchaço), o espasmo muscular e a diminuir a hemorragia.\nA sua colocação é da exclusiva competência médica assim como a determinação do tempo de uso.\nPodem também ser usados como ajuda após cirurgia.",
+          "document_id": 42020
+        }
+      ]
+    },
+    {
+      "title": "Quais são os sinais de alarme para recorrer ao médico?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais os principais danos secundários ou complicações que aqueles aparelhos gessados podem provocar no organismo?",
+              "id": 38727,
+              "answers": [
+                {
+                  "answer_id": 39089,
+                  "document_id": 42021,
+                  "question_id": 38727,
+                  "text": "Inchaço (que depois de elevar o membro não reduz);\nDor que não passa ou não diminui com os analgésicos;\nMudança de cor dos dedos (roxos);\nMudança de temperatura dos dedos (frios);\nCheiro fétido - mau cheiro;\nManchas no gesso;\nDiminuição da sensibilidade ou mobilidade das extremidades;\nFormigueiro.\nNestes casos deve contactar um profissional de saúde ou mesmo dirigir-se ao serviço de urgência",
+                  "answer_start": 12,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Pode haver consequências futuras?",
+              "id": 38721,
+              "answers": [
+                {
+                  "answer_id": 39087,
+                  "document_id": 42021,
+                  "question_id": 38721,
+                  "text": "Diminuição da sensibilidade ou mobilidade das extremidades;\nFormigueiro.\nNestes casos deve contactar um profissional de saúde ou mesmo dirigir-se ao serviço de urgência",
+                  "answer_start": 238,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais as possíveis dificuldades que iria encontrar?",
+              "id": 38725,
+              "answers": [
+                {
+                  "answer_id": 39088,
+                  "document_id": 42021,
+                  "question_id": 38725,
+                  "text": "Diminuição da sensibilidade ou mobilidade das extremidades",
+                  "answer_start": 238,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Em caso de:\nInchaço (que depois de elevar o membro não reduz);\nDor que não passa ou não diminui com os analgésicos;\nMudança de cor dos dedos (roxos);\nMudança de temperatura dos dedos (frios);\nCheiro fétido - mau cheiro;\nManchas no gesso;\nDiminuição da sensibilidade ou mobilidade das extremidades;\nFormigueiro.\nNestes casos deve contactar um profissional de saúde ou mesmo dirigir-se ao serviço de urgência.",
+          "document_id": 42021
+        }
+      ]
+    },
+    {
+      "title": "Que cuidados tenho de ter em casa?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais cuidados devo ter com o aparelho engessado?",
+              "id": 38717,
+              "answers": [
+                {
+                  "answer_id": 39095,
+                  "document_id": 42019,
+                  "question_id": 38717,
+                  "text": "equipa de enfermagem faz os ensinos e esclarece-o nos cuidados a ter",
+                  "answer_start": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Terei que me manter o mais imóvel possível?",
+              "id": 38720,
+              "answers": [
+                {
+                  "answer_id": 39093,
+                  "document_id": 42019,
+                  "question_id": 38720,
+                  "text": "membro imobilizado deve ser mantido na posição orientada pelo médico",
+                  "answer_start": 305,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que atividades deixarei de fazer no dia a dia?",
+              "id": 38719,
+              "answers": [
+                {
+                  "answer_id": 39098,
+                  "document_id": 42019,
+                  "question_id": 38719,
+                  "text": "Não deve praticar desporto",
+                  "answer_start": 865,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Como devo higienizar as zonas gessadas?",
+              "id": 38716,
+              "answers": [
+                {
+                  "answer_id": 39094,
+                  "document_id": 42019,
+                  "question_id": 38716,
+                  "text": "NÃO MOLHAR.\nDeve realizar secagem rigorosa dos espaços entre os dedos.",
+                  "answer_start": 639,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais são os cuidados a ter?",
+              "id": 38723,
+              "answers": [
+                {
+                  "answer_id": 39097,
+                  "document_id": 42019,
+                  "question_id": 38723,
+                  "text": "O membro imobilizado deve ser mantido na posição orientada pelo médico, com a elevação do mesmo e a mobilização das extremidades de forma a reduzir o inchaço.\nO repouso é importante por períodos de forma a prevenir a dor e o edema.\nDeve proteger o gesso da humidade (ensino feito no internamento, com a colocação de saco de plástico) – NÃO MOLHAR.\nDeve realizar secagem rigorosa dos espaços entre os dedos.\nNão pode colocar nenhum objeto dentro do gesso, como por exemplo canetas, réguas ou qualquer objeto pontiagudo que possa causar ferida.\nNão deve conduzir.\nNão deve praticar desporto.\nDurante a viagem de avião colocar o membro em posição elevada.\nEvitar apoio sobre a região poplítea nos membros inferiores (parte de traz do joelho).\nNão andar sobre o gesso, se o apoio não for autorizado pelo médico.",
+                  "answer_start": 303,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Terei que me manter o mais imóvel possível?",
+              "id": 38718,
+              "answers": [
+                {
+                  "answer_id": 39099,
+                  "document_id": 42019,
+                  "question_id": 38718,
+                  "text": "membro imobilizado deve ser mantido na posição orientada pelo médico",
+                  "answer_start": 305,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Como proceder ao tomar banho com o gesso?",
+              "id": 38722,
+              "answers": [
+                {
+                  "answer_id": 39096,
+                  "document_id": 42019,
+                  "question_id": 38722,
+                  "text": "Deve proteger o gesso da humidade (ensino feito no internamento, com a colocação de saco de plástico) – NÃO MOLHAR.",
+                  "answer_start": 535,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ainda durante o internamento a equipa de enfermagem faz os ensinos e esclarece-o nos cuidados a ter.\nO dispositivo gessado só estará completamente seco passado algum tempo, pelo que deve fazer algum repouso com o membro apoiado em almofada, de forma a evitar deformidades no mesmo durante esse período.\nO membro imobilizado deve ser mantido na posição orientada pelo médico, com a elevação do mesmo e a mobilização das extremidades de forma a reduzir o inchaço.\nO repouso é importante por períodos de forma a prevenir a dor e o edema.\nDeve proteger o gesso da humidade (ensino feito no internamento, com a colocação de saco de plástico) – NÃO MOLHAR.\nDeve realizar secagem rigorosa dos espaços entre os dedos.\nNão pode colocar nenhum objeto dentro do gesso, como por exemplo canetas, réguas ou qualquer objeto pontiagudo que possa causar ferida.\nNão deve conduzir.\nNão deve praticar desporto.\nDurante a viagem de avião colocar o membro em posição elevada.\nEvitar apoio sobre a região poplítea nos membros inferiores (parte de traz do joelho).\nNão andar sobre o gesso, se o apoio não for autorizado pelo médico.\nDurante o repouso, o membro superior e inferior (braço e perna) deve apoiar em almofada para elevar todo o membro e as extremidades (dedos) e mexer os dedos frequentemente. Para limitar a atrofia e rigidez muscular deve contrair os músculos que fletem e estendem o membro e elevar o membro mais alto que o plano da cama/cadeira. A imobilização (para além da dor própria do traumatismo) não deve causar qualquer dor.",
+          "document_id": 42019
+        }
+      ]
+    }
+  ]
+}

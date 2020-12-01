@@ -1,0 +1,426 @@
+{
+  "data": [
+    {
+      "title": "Para que serve o colete dorsolombostato?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais foram os problemas antecederam desta condição?",
+              "id": 38734,
+              "answers": [
+                {
+                  "answer_id": 39101,
+                  "document_id": 42023,
+                  "question_id": 38734,
+                  "text": "fratura de coluna",
+                  "answer_start": 56,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "O que pode ser feito para precaver?",
+              "id": 38732,
+              "answers": [
+                {
+                  "answer_id": 39100,
+                  "document_id": 42023,
+                  "question_id": 38732,
+                  "text": "colete dorsal que se aplica numa fratura de coluna",
+                  "answer_start": 23,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "O dorsolombostato é um colete dorsal que se aplica numa fratura de coluna para o paciente conseguir manter a posição erecta.",
+          "document_id": 42023
+        }
+      ]
+    },
+    {
+      "title": "Posso andar levantado sem o colete?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual o período que iria ter de recorrer à utilização do colete?",
+              "id": 38743,
+              "answers": [
+                {
+                  "answer_id": 39114,
+                  "document_id": 42026,
+                  "question_id": 38743,
+                  "text": "só deve ser retirado no fim do doente se deitar",
+                  "answer_start": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vou ter que usar o colete 24 horas por dia?",
+              "id": 38740,
+              "answers": [
+                {
+                  "answer_id": 39112,
+                  "document_id": 42026,
+                  "question_id": 38740,
+                  "text": "não",
+                  "answer_start": 134,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Posso deslocar-me normalmente a pé?",
+              "id": 38746,
+              "answers": [
+                {
+                  "answer_id": 39119,
+                  "document_id": 42026,
+                  "question_id": 38746,
+                  "text": "não pode permanecer em pé sem o colete",
+                  "answer_start": 134,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Não vou poder baixar-me de forma alguma?",
+              "id": 38744,
+              "answers": [
+                {
+                  "answer_id": 39118,
+                  "document_id": 42026,
+                  "question_id": 38744,
+                  "text": "não pode permanecer em pé sem o colete",
+                  "answer_start": 134,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Com o uso daquele Colete o paciente poderá exercer actividade física?",
+              "id": 38741,
+              "answers": [
+                {
+                  "answer_id": 39111,
+                  "document_id": 42026,
+                  "question_id": 38741,
+                  "text": "ão pode permanecer em pé sem o colete",
+                  "answer_start": 135,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vai ser incomodo para dormir?",
+              "id": 38745,
+              "answers": [
+                {
+                  "answer_id": 39117,
+                  "document_id": 42026,
+                  "question_id": 38745,
+                  "text": "só deve ser retirado no fim do doente se deitar",
+                  "answer_start": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Não vou poder baixar-me de forma alguma?",
+              "id": 38737,
+              "answers": [
+                {
+                  "answer_id": 39110,
+                  "document_id": 42026,
+                  "question_id": 38737,
+                  "text": "não pode permanecer em pé sem o colete",
+                  "answer_start": 134,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Em que momento posso retirar o colete?",
+              "id": 38742,
+              "answers": [
+                {
+                  "answer_id": 39115,
+                  "document_id": 42026,
+                  "question_id": 38742,
+                  "text": "no fim do doente se deitar",
+                  "answer_start": 78,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo terei de andar com o colete?",
+              "id": 38748,
+              "answers": [
+                {
+                  "answer_id": 39120,
+                  "document_id": 42026,
+                  "question_id": 38748,
+                  "text": "só deve ser retirado no fim do doente se deitar",
+                  "answer_start": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "O colete deve ser colocado sempre com o doente deitado e só deve ser retirado no fim do doente se deitar. Isto significa que o doente não pode permanecer em pé sem o colete.",
+          "document_id": 42026
+        }
+      ]
+    },
+    {
+      "title": "Já não tenho dores posso deixar de usar o colete?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Este colete é vitalício ou temporário?",
+              "id": 38730,
+              "answers": [
+                {
+                  "answer_id": 39124,
+                  "document_id": 42033,
+                  "question_id": 38730,
+                  "text": "deve ser utilizado conforme indicação médica",
+                  "answer_start": 14,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Não, o colete deve ser utilizado conforme indicação médica. Normalmente o doente após a alta fica com uma consulta de ortopedia marcada e nessa altura o médico dar-lhe -á novas indicações.",
+          "document_id": 42033
+        }
+      ]
+    },
+    {
+      "title": "O que é um colete dorsolombostato ou colete de Jewett?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais os cuidados a ter com a utilização do colete?",
+              "id": 38729,
+              "answers": [
+                {
+                  "answer_id": 39102,
+                  "document_id": 42024,
+                  "question_id": 38729,
+                  "text": "apoio peitoral, zona da bacia e costas",
+                  "answer_start": 80,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "É uma estrutura em liga leve de alumínio com um formato anatómico que possui um apoio peitoral, zona da bacia e costas.",
+          "document_id": 42024
+        }
+      ]
+    },
+    {
+      "title": "Quais são as indicações para usar o colete dorsolombostato ou de Jewett?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Por quanto tempo tenho que usar o colete?",
+              "id": 38731,
+              "answers": [
+                {
+                  "answer_id": 39104,
+                  "document_id": 42025,
+                  "question_id": 38731,
+                  "text": "deve ser utilizado sempre após indicação médica.",
+                  "answer_start": 12,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais as causas?",
+              "id": 38733,
+              "answers": [
+                {
+                  "answer_id": 39105,
+                  "document_id": 42025,
+                  "question_id": 38733,
+                  "text": "fratura da coluna",
+                  "answer_start": 105,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Existem outras opções de tratamento?",
+              "id": 38738,
+              "answers": [
+                {
+                  "answer_id": 39108,
+                  "document_id": 42025,
+                  "question_id": 38738,
+                  "text": "tratamento cirúrgico à coluna",
+                  "answer_start": 169,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Após usar o colete, que cuidados devo ter?",
+              "id": 38728,
+              "answers": [
+                {
+                  "answer_id": 39103,
+                  "document_id": 42025,
+                  "question_id": 38728,
+                  "text": "sempre após indicação médica",
+                  "answer_start": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo terei que o manter?",
+              "id": 38735,
+              "answers": [
+                {
+                  "answer_id": 39106,
+                  "document_id": 42025,
+                  "question_id": 38735,
+                  "text": "deve ser utilizado sempre após indicação médica.",
+                  "answer_start": 12,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais são os cuidados?",
+              "id": 38739,
+              "answers": [
+                {
+                  "answer_id": 39107,
+                  "document_id": 42025,
+                  "question_id": 38739,
+                  "text": "sempre após indicação médica",
+                  "answer_start": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Durante quanto tempo tenho que o usar?",
+              "id": 38736,
+              "answers": [
+                {
+                  "answer_id": 39109,
+                  "document_id": 42025,
+                  "question_id": 38736,
+                  "text": "deve ser utilizado sempre após indicação médica",
+                  "answer_start": 12,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Este colete deve ser utilizado sempre após indicação médica. Normalmente é utilizado quando a pessoa tem fratura da coluna a nível da região dorsal ou lombar ou após um tratamento cirúrgico à coluna.",
+          "document_id": 42025
+        }
+      ]
+    },
+    {
+      "title": "Tenho o peito marcado (vermelho) por causa do colete, o que devo fazer?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais os principais cuidados que o paciente deve ter com o uso daquele colete?",
+              "id": 38747,
+              "answers": [
+                {
+                  "answer_id": 39123,
+                  "document_id": 42031,
+                  "question_id": 38747,
+                  "text": "nunca deve ser colocado diretamente sobre a pele, é aconselhável vestir uma camisola de algodão",
+                  "answer_start": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "O colete nunca deve ser colocado diretamente sobre a pele, é aconselhável vestir uma camisola de algodão sem botões por baixo do colete. No caso de começar a ficar com o peito vermelho verifique se o colete está bem aplicado ou se está muito apertado. Pode colocar uma toalha ou algodão por baixo do colete, na zona onde este magoa.\nDeve vigiar a zona que está vermelha e se necessário aplicar um creme.",
+          "document_id": 42031
+        }
+      ]
+    },
+    {
+      "title": "Quantas horas posso andar com o colete?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vou ter que usar colete quanto tempo?",
+              "id": 38749,
+              "answers": [
+                {
+                  "answer_id": 39121,
+                  "document_id": 42028,
+                  "question_id": 38749,
+                  "text": "Não há limite de horas",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo?",
+              "id": 38750,
+              "answers": [
+                {
+                  "answer_id": 39122,
+                  "document_id": 42028,
+                  "question_id": 38750,
+                  "text": "Não há limite de horas",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Não há limite de horas para andar com o colete aplicado, vai depender de doente para doente e da ajuda disponível.",
+          "document_id": 42028
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "title": "Como é feita a recuperação?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Tempo de recuperação?",
+              "id": 38446,
+              "answers": [
+                {
+                  "answer_id": 38834,
+                  "document_id": 41999,
+                  "question_id": 38446,
+                  "text": "Se a sua a condição física o permitir pode andar de canadianas/andarilho conforme as orientações do médico assistente",
+                  "answer_start": 175,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual é o tempo de recuperação após a cirugia?",
+              "id": 38445,
+              "answers": [
+                {
+                  "answer_id": 38833,
+                  "document_id": 41999,
+                  "question_id": 38445,
+                  "text": "não devem permanecer todo o dia em repouso no leito.",
+                  "answer_start": 46,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Os doentes submetidos a este tipo de cirurgia não devem permanecer todo o dia em repouso no leito. Está recomendado o levante diário para cadeira de rodas ou cadeirão (sofá). Se a sua a condição física o permitir pode andar de canadianas/andarilho conforme as orientações do médico assistente, do seu equilíbrio, coordenação e da sua tolerância à dor.",
+          "document_id": 41999
+        }
+      ]
+    },
+    {
+      "title": "Posso andar normalmente?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Posso correr?",
+              "id": 38448,
+              "answers": [
+                {
+                  "answer_id": 38837,
+                  "document_id": 42000,
+                  "question_id": 38448,
+                  "text": "Se a sua a condição física o permitir pode andar de canadianas/andarilho conforme as orientações do médico assistente",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Posso correr?",
+              "id": 38451,
+              "answers": [
+                {
+                  "answer_id": 38839,
+                  "document_id": 42000,
+                  "question_id": 38451,
+                  "text": "Se a sua a condição física o permitir pode andar de canadianas/andarilho conforme as orientações do médico assistente",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo de internamento no hospital?",
+              "id": 38447,
+              "answers": [
+                {
+                  "answer_id": 38838,
+                  "document_id": 42000,
+                  "question_id": 38447,
+                  "text": "orientações do médico assistente",
+                  "answer_start": 85,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Pederei ter problemas com a mobilidade no futuro?",
+              "id": 38452,
+              "answers": [
+                {
+                  "answer_id": 38840,
+                  "document_id": 42000,
+                  "question_id": 38452,
+                  "text": "pode andar de canadianas/andarilho conforme as orientações do médico assistente",
+                  "answer_start": 38,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Poderá o paciente após aplicação daqueles materiais fazer a sua vida normal, designadamente praticar desporto?",
+              "id": 38450,
+              "answers": [
+                {
+                  "answer_id": 38841,
+                  "document_id": 42000,
+                  "question_id": 38450,
+                  "text": "pode andar de canadianas/andarilho conforme as orientações do médico assistente",
+                  "answer_start": 38,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Se a sua a condição física o permitir pode andar de canadianas/andarilho conforme as orientações do médico assistente.",
+          "document_id": 42000
+        }
+      ]
+    },
+    {
+      "title": "Qual é o tratamento das fraturas do fémur?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Como identificar que tenho o fémur fraturado?",
+              "id": 38443,
+              "answers": [
+                {
+                  "answer_id": 38832,
+                  "document_id": 41998,
+                  "question_id": 38443,
+                  "text": "avaliado pelo seu médico assistente",
+                  "answer_start": 12,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Tem de ser tratado cirurgicamente obrigatoriamente?",
+              "id": 38442,
+              "answers": [
+                {
+                  "answer_id": 38831,
+                  "document_id": 41998,
+                  "question_id": 38442,
+                  "text": "é cirúrgico em quase 100% dos casos.",
+                  "answer_start": 84,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Existem outras opções de tratamento?",
+              "id": 38458,
+              "answers": [
+                {
+                  "answer_id": 38836,
+                  "document_id": 41998,
+                  "question_id": 38458,
+                  "text": "é cirúrgico em quase 100% dos casos.",
+                  "answer_start": 84,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Deve-se ser avaliado pelo seu médico assistente. O tratamento das fraturas do fémur é cirúrgico em quase 100% dos casos.",
+          "document_id": 41998
+        }
+      ]
+    },
+    {
+      "title": "O que é a Cirurgia com Cavilha?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Que tipo de limitações poderá trazer a fartura?",
+              "id": 38453,
+              "answers": [
+                {
+                  "answer_id": 38849,
+                  "document_id": 42001,
+                  "question_id": 38453,
+                  "text": "músculo sem movimentar a perna operada",
+                  "answer_start": 590,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo terei que permanecer no hospital?",
+              "id": 38454,
+              "answers": [
+                {
+                  "answer_id": 38848,
+                  "document_id": 42001,
+                  "question_id": 38454,
+                  "text": "todo o dia",
+                  "answer_start": 67,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais as consequências futuras?",
+              "id": 38456,
+              "answers": [
+                {
+                  "answer_id": 38845,
+                  "document_id": 42001,
+                  "question_id": 38456,
+                  "text": "É de extrema importância o fortalecimento dos seus músculos, em especial do membro operado.",
+                  "answer_start": 436,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que cuidados principais deverá ter após implantação daqueles materiais.",
+              "id": 38455,
+              "answers": [
+                {
+                  "answer_id": 38847,
+                  "document_id": 42001,
+                  "question_id": 38455,
+                  "text": "fortalecimento dos seus músculos",
+                  "answer_start": 463,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Depois de instalada o material seria preciso fazer alguma manutenção regularmente?",
+              "id": 38459,
+              "answers": [
+                {
+                  "answer_id": 38844,
+                  "document_id": 42001,
+                  "question_id": 38459,
+                  "text": " fortalecimento dos seus músculos",
+                  "answer_start": 462,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Os doentes submetidos a este tipo de cirurgia não devem permanecer todo o dia em repouso no leito. Está recomendado o levante diário para cadeira de rodas ou cadeirão (sofá). Se a sua a condição física o permitir pode andar de canadianas/andarilho conforme as orientações do médico assistente, do seu equilíbrio, coordenação e da sua tolerância à dor.\nSó poderá fazer carga sobre o membro operado, se o seu médico assistente o indicar.\nÉ de extrema importância o fortalecimento dos seus músculos, em especial do membro operado. Assim devem ser realizados exercícios isométricos (contrair o músculo sem movimentar a perna operada) ou isotónicos (contrair o músculo provocando o movimento da perna operada). \nApós a primeira consulta deve manter as indicações/orientações do seu médico assistente.",
+          "document_id": 42001
+        }
+      ]
+    },
+    {
+      "title": "O que é a cirurgia com a colocação de DHS /Placa?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual vai afetar menos os movimentos?",
+              "id": 38457,
+              "answers": [
+                {
+                  "answer_id": 38850,
+                  "document_id": 42002,
+                  "question_id": 38457,
+                  "text": "É de extrema importância o fortalecimento dos seus músculos, em especial do membro operado. Assim devem ser realizados exercícios isométricos",
+                  "answer_start": 436,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Os doentes submetidos a este tipo de cirurgia não devem permanecer todo o dia em repouso no leito. Está recomendado o levante diário para cadeira de rodas ou cadeirão (sofá). Se a sua a condição física o permitir pode andar de canadianas/andarilho conforme as orientações do médico assistente, do seu equilíbrio, coordenação e da sua tolerância à dor.\nSó poderá fazer carga sobre o membro operado, se o seu médico assistente o indicar.\nÉ de extrema importância o fortalecimento dos seus músculos, em especial do membro operado. Assim devem ser realizados exercícios isométricos (contrair o músculo sem movimentar a perna operada) ou isotónicos (contrair o músculo provocando o movimento da perna operada).",
+          "document_id": 42002
+        }
+      ]
+    },
+    {
+      "title": "Que tipo de cirurgia é realizada?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Taxa de sucesso da cirurgia?",
+              "id": 38444,
+              "answers": [
+                {
+                  "answer_id": 38830,
+                  "document_id": 41997,
+                  "question_id": 38444,
+                  "text": "O tipo de cirurgia é determinado pelo local da fratura e tipo de fratura.",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "O tipo de cirurgia é determinado pelo local da fratura e tipo de fratura.",
+          "document_id": 41997
+        }
+      ]
+    }
+  ]
+}

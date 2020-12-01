@@ -1,0 +1,733 @@
+{
+  "data": [
+    {
+      "title": "O que é a Gonartrose (artrose do joelho)?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "O que poderá ter provocado esta gonartrose?",
+              "id": 36949,
+              "answers": [
+                {
+                  "answer_id": 37274,
+                  "document_id": 41449,
+                  "question_id": 36949,
+                  "text": "desgaste da articulação do joelho com perda progressiva da cartilagem, aparecimento de bicos de papagaio, deformidade e derrame articular.",
+                  "answer_start": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Como é que isto aconteceu?",
+              "id": 36942,
+              "answers": [
+                {
+                  "answer_id": 37273,
+                  "document_id": 41449,
+                  "question_id": 36942,
+                  "text": "desgaste da articulação do joelho com perda progressiva da cartilagem, aparecimento de bicos de papagaio, deformidade e derrame articular",
+                  "answer_start": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "É um desgaste da articulação do joelho com perda progressiva da cartilagem, aparecimento de bicos de papagaio, deformidade e derrame articular.",
+          "document_id": 41449
+        }
+      ]
+    },
+    {
+      "title": "O que é uma Prótese Total do Joelho?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual o material utilizado para a prótese?",
+              "id": 36956,
+              "answers": [
+                {
+                  "answer_id": 37292,
+                  "document_id": 41455,
+                  "question_id": 36956,
+                  "text": "material artificial",
+                  "answer_start": 74,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quão desconfortável é a prótese?",
+              "id": 36926,
+              "answers": [
+                {
+                  "answer_id": 37290,
+                  "document_id": 41455,
+                  "question_id": 36926,
+                  "text": "material artificial que substitui os tecidos danificados",
+                  "answer_start": 74,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais seriam as consequências da não aplicação da prótese?",
+              "id": 36944,
+              "answers": [
+                {
+                  "answer_id": 37291,
+                  "document_id": 41455,
+                  "question_id": 36944,
+                  "text": "tecidos danificados",
+                  "answer_start": 111,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Gostaria de saber mais informações acerca da cirurgia da Prótese em si.",
+              "id": 36957,
+              "answers": [
+                {
+                  "answer_id": 37293,
+                  "document_id": 41455,
+                  "question_id": 36957,
+                  "text": "articulação do joelho é substituída por uma nova articulação – prótese (material artificial que substitui os tecidos danificados)",
+                  "answer_start": 2,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A articulação do joelho é substituída por uma nova articulação – prótese (material artificial que substitui os tecidos danificados).",
+          "document_id": 41455
+        }
+      ]
+    },
+    {
+      "title": "Que cuidados recuperativos devo ter com Prótese do Joelho?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quanto tempo terei de estar em recuperação?",
+              "id": 36945,
+              "answers": [
+                {
+                  "answer_id": 37300,
+                  "document_id": 41456,
+                  "question_id": 36945,
+                  "text": "dentro de três a seis semanas",
+                  "answer_start": 95,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual o procedimento de recuperação (ex. fisioterapia, gesso)?",
+              "id": 36929,
+              "answers": [
+                {
+                  "answer_id": 37297,
+                  "document_id": 41456,
+                  "question_id": 36929,
+                  "text": "Um programa de exercícios é fundamental.",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quando tempo de recuperação?",
+              "id": 36936,
+              "answers": [
+                {
+                  "answer_id": 37298,
+                  "document_id": 41456,
+                  "question_id": 36936,
+                  "text": "três a seis semanas",
+                  "answer_start": 105,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Tempo de recuperação?",
+              "id": 36946,
+              "answers": [
+                {
+                  "answer_id": 37301,
+                  "document_id": 41456,
+                  "question_id": 36946,
+                  "text": "três a seis semanas",
+                  "answer_start": 105,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais os cuidados a ter pós-cirurgia?",
+              "id": 36950,
+              "answers": [
+                {
+                  "answer_id": 37303,
+                  "document_id": 41456,
+                  "question_id": 36950,
+                  "text": "Marcha gradual, inicialmente dentro de casa e depois no exterior\nDesempenhar actividades habituais como seja sentar, levantar, caminhar e subir e descer escadas\nExercícios específicos para recuperação da força muscular do membro operado",
+                  "answer_start": 281,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Terei dores?",
+              "id": 36921,
+              "answers": [
+                {
+                  "answer_id": 37294,
+                  "document_id": 41456,
+                  "question_id": 36921,
+                  "text": "Pode manter dor ao movimento e durante a noite, por um período mais ou menos longo.",
+                  "answer_start": 157,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo de recuperação?",
+              "id": 36925,
+              "answers": [
+                {
+                  "answer_id": 37296,
+                  "document_id": 41456,
+                  "question_id": 36925,
+                  "text": "três a seis semanas",
+                  "answer_start": 105,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto o tempo de recuperação?",
+              "id": 36953,
+              "answers": [
+                {
+                  "answer_id": 37305,
+                  "document_id": 41456,
+                  "question_id": 36953,
+                  "text": "dentro de três a seis semanas",
+                  "answer_start": 95,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vou poder voltar a dar as minha caminhadas normalmente depois da colocação da prótese?",
+              "id": 36943,
+              "answers": [
+                {
+                  "answer_id": 37299,
+                  "document_id": 41456,
+                  "question_id": 36943,
+                  "text": "deverá retomar as suas actividades habituais dentro de três a seis semanas após a recuperação da cirurgia.",
+                  "answer_start": 50,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Terei dores?",
+              "id": 36954,
+              "answers": [
+                {
+                  "answer_id": 37306,
+                  "document_id": 41456,
+                  "question_id": 36954,
+                  "text": "ode manter dor ao movimento e durante a noite, por um período mais ou menos longo.",
+                  "answer_start": 158,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quando posso voltar a andar normalmente?",
+              "id": 36923,
+              "answers": [
+                {
+                  "answer_id": 37295,
+                  "document_id": 41456,
+                  "question_id": 36923,
+                  "text": "dentro de três a seis semanas",
+                  "answer_start": 95,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que cuidados principais deverá ter após implantação da prótese.",
+              "id": 36947,
+              "answers": [
+                {
+                  "answer_id": 37302,
+                  "document_id": 41456,
+                  "question_id": 36947,
+                  "text": "Marcha gradual, inicialmente dentro de casa e depois no exterior\nDesempenhar actividades habituais como seja sentar, levantar, caminhar e subir e descer escadas\nExercícios específicos para recuperação da força muscular do membro operado",
+                  "answer_start": 281,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual o período de recuperação pós-cirurgia?",
+              "id": 36952,
+              "answers": [
+                {
+                  "answer_id": 37304,
+                  "document_id": 41456,
+                  "question_id": 36952,
+                  "text": "três a seis semanas",
+                  "answer_start": 105,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Um programa de exercícios é fundamental. O doente deverá retomar as suas actividades habituais dentro de três a seis semanas após a recuperação da cirurgia. Pode manter dor ao movimento e durante a noite, por um período mais ou menos longo. O programa de actividades deve incluir:\nMarcha gradual, inicialmente dentro de casa e depois no exterior\nDesempenhar actividades habituais como seja sentar, levantar, caminhar e subir e descer escadas\nExercícios específicos para recuperação da força muscular do membro operado que lhe serão indicados pelo médico fisiatra ainda durante o internamento.",
+          "document_id": 41456
+        }
+      ]
+    },
+    {
+      "title": "O que posso fazer na vida diária tendo Prótese do Joelho?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Implicações práticas da prótese/cirurgia na vida quotidiana.",
+              "id": 36951,
+              "answers": [
+                {
+                  "answer_id": 37311,
+                  "document_id": 41457,
+                  "question_id": 36951,
+                  "text": "O doente deverá retomar as suas actividades habituais dentro de três a seis semanas após a cirurgia.",
+                  "answer_start": 41,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Posso fazer exercício físico?",
+              "id": 36920,
+              "answers": [
+                {
+                  "answer_id": 37307,
+                  "document_id": 41457,
+                  "question_id": 36920,
+                  "text": "actividades habituais dentro de três a seis semanas após a cirurgia.",
+                  "answer_start": 73,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Poderá o paciente após aplicação da prótese fazer a sua vida normal?",
+              "id": 36940,
+              "answers": [
+                {
+                  "answer_id": 37309,
+                  "document_id": 41457,
+                  "question_id": 36940,
+                  "text": " deverá retomar as suas actividades habituais dentro de três a seis semanas após a cirurgia",
+                  "answer_start": 49,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Poderei correr?",
+              "id": 36958,
+              "answers": [
+                {
+                  "answer_id": 37312,
+                  "document_id": 41457,
+                  "question_id": 36958,
+                  "text": "Marcha gradual, inicialmente dentro de casa e depois no exterior",
+                  "answer_start": 266,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Poderei correr?",
+              "id": 36927,
+              "answers": [
+                {
+                  "answer_id": 37308,
+                  "document_id": 41457,
+                  "question_id": 36927,
+                  "text": "Marcha gradual, inicialmente dentro de casa e depois no exterior",
+                  "answer_start": 266,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que limitações me pode trazer esta protese no meu dia-a-dia?",
+              "id": 36948,
+              "answers": [
+                {
+                  "answer_id": 37310,
+                  "document_id": 41457,
+                  "question_id": 36948,
+                  "text": "Marcha gradual, inicialmente dentro de casa e depois no exterior\nDesempenhar actividades habituais como seja sentar, levantar, caminhar e subir e descer escadas\nExercícios específicos para recuperação da força muscular do membro operado",
+                  "answer_start": 266,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Um programa de exercícios é fundamental. O doente deverá retomar as suas actividades habituais dentro de três a seis semanas após a cirurgia. Pode manter dor ao movimento e durante a noite, por um período mais ou menos longo. O programa de actividades deve incluir:\nMarcha gradual, inicialmente dentro de casa e depois no exterior\nDesempenhar actividades habituais como seja sentar, levantar, caminhar e subir e descer escadas\nExercícios específicos para recuperação da força muscular do membro operado que lhe serão indicados pelo médico fisiatra ainda durante o internamento.",
+          "document_id": 41457
+        }
+      ]
+    },
+    {
+      "title": "Como andar com canadianas?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quanto tempo terei de andar de muletas?",
+              "id": 36955,
+              "answers": [
+                {
+                  "answer_id": 37314,
+                  "document_id": 41461,
+                  "question_id": 36955,
+                  "text": "deverá iniciar marcha com auxiliares de marcha (andarilho, canadianas) o mais precocemente possível",
+                  "answer_start": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Iria afetar todos os movimentos e andar no dia a dia?",
+              "id": 36935,
+              "answers": [
+                {
+                  "answer_id": 37315,
+                  "document_id": 41461,
+                  "question_id": 36935,
+                  "text": "sem fazer força na perna operada.",
+                  "answer_start": 114,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vou poder andar?",
+              "id": 36937,
+              "answers": [
+                {
+                  "answer_id": 37313,
+                  "document_id": 41461,
+                  "question_id": 36937,
+                  "text": "sem fazer força na perna operada.",
+                  "answer_start": 114,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A pessoa deverá iniciar marcha com auxiliares de marcha (andarilho, canadianas) o mais precocemente possível, mas sem fazer força na perna operada.",
+          "document_id": 41461
+        }
+      ]
+    },
+    {
+      "title": "Quais os sintomas?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais as causas?",
+              "id": 36924,
+              "answers": [
+                {
+                  "answer_id": 37275,
+                  "document_id": 41450,
+                  "question_id": 36924,
+                  "text": "derrame articular",
+                  "answer_start": 192,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que sintomas identificam a gonartrose?",
+              "id": 36938,
+              "answers": [
+                {
+                  "answer_id": 37276,
+                  "document_id": 41450,
+                  "question_id": 36938,
+                  "text": "O joelho apresenta-se deformado e muitas vezes com derrame articular (líquido).",
+                  "answer_start": 141,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "O sintoma que surge em primeiro lugar é a dor que está associada à perda de função, ou seja, diminuição da mobilidade e limitação da marcha.\nO joelho apresenta-se deformado e muitas vezes com derrame articular (líquido).",
+          "document_id": 41450
+        }
+      ]
+    },
+    {
+      "title": "Qual é o tratamento?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Tem de ser intervencionada cirurgicamente obrigatoriamente?",
+              "id": 36930,
+              "answers": [
+                {
+                  "answer_id": 37278,
+                  "document_id": 41452,
+                  "question_id": 36930,
+                  "text": "Se estes tratamentos não resultarem, está indicado o tratamento cirúrgico.",
+                  "answer_start": 301,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Taxa de sucesso do tratamento?",
+              "id": 36939,
+              "answers": [
+                {
+                  "answer_id": 37280,
+                  "document_id": 41452,
+                  "question_id": 36939,
+                  "text": "Se estes tratamentos não resultarem, está indicado o tratamento cirúrgico.",
+                  "answer_start": 301,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Existem outras opções de tratamento que não implantação de uma prótese?",
+              "id": 36941,
+              "answers": [
+                {
+                  "answer_id": 37281,
+                  "document_id": 41452,
+                  "question_id": 36941,
+                  "text": "injeção intra-articular pode aliviar os sintomas",
+                  "answer_start": 214,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "O que pode ser feito para precaver?",
+              "id": 36931,
+              "answers": [
+                {
+                  "answer_id": 37283,
+                  "document_id": 41452,
+                  "question_id": 36931,
+                  "text": "plano adequado de fisioterapia, permitem um alívio da dor e melhoria da função articular",
+                  "answer_start": 88,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que medicação vou tomar?",
+              "id": 36922,
+              "answers": [
+                {
+                  "answer_id": 37277,
+                  "document_id": 41452,
+                  "question_id": 36922,
+                  "text": "analgésicos e anti-inflamatórios",
+                  "answer_start": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que outras formas existem de correção?",
+              "id": 36932,
+              "answers": [
+                {
+                  "answer_id": 37282,
+                  "document_id": 41452,
+                  "question_id": 36932,
+                  "text": "tratamento cirúrgico.",
+                  "answer_start": 354,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Pode ser reincidente?",
+              "id": 36933,
+              "answers": [
+                {
+                  "answer_id": 37279,
+                  "document_id": 41452,
+                  "question_id": 36933,
+                  "text": "Se estes tratamentos não resultarem, está indicado o tratamento cirúrgico.",
+                  "answer_start": 301,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Na fase inicial são prescritos analgésicos e anti-inflamatórios que, em conjunto com um plano adequado de fisioterapia, permitem um alívio da dor e melhoria da função articular, apesar de não tratarem a artrose.\nA injeção intra-articular pode aliviar os sintomas, sobretudo na fase inicial da doença.\nSe estes tratamentos não resultarem, está indicado o tratamento cirúrgico.",
+          "document_id": 41452
+        }
+      ]
+    },
+    {
+      "title": "Como posso preparar e manter o fortalecimento muscular?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Preciso de fisioterapia?",
+              "id": 36934,
+              "answers": [
+                {
+                  "answer_id": 37286,
+                  "document_id": 41453,
+                  "question_id": 36934,
+                  "text": "facilita o seu período pós-operatório e o programa de reabilitação com o fisioterapeuta.",
+                  "answer_start": 68,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais os procedimentos pré-cirurgia?",
+              "id": 36928,
+              "answers": [
+                {
+                  "answer_id": 37285,
+                  "document_id": 41453,
+                  "question_id": 36928,
+                  "text": "Aprender a praticar alguns exercícios para fortalecimento muscular, facilita o seu período pós-operatório e o programa de reabilitação com o fisioterapeuta.\nAprender a andar com canadianas",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Aprender a praticar alguns exercícios para fortalecimento muscular, facilita o seu período pós-operatório e o programa de reabilitação com o fisioterapeuta.\nAprender a andar com canadianas antes de ser operado facilita o seu período pós-operatório e o programa de reabilitação.\nAconselhe-se com o seu médico ortopedista nas consultas de pré-operatório.",
+          "document_id": 41453
+        }
+      ]
+    },
+    {
+      "title": "É importante dobrar e esticar o joelho?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Conseguirei esticar a perna?",
+              "id": 36919,
+              "answers": [
+                {
+                  "answer_id": 37287,
+                  "document_id": 41454,
+                  "question_id": 36919,
+                  "text": "iniciará exercícios de extensão e flexão da sua perna operada.",
+                  "answer_start": 23,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Conseguirei esticar a perna?",
+              "id": 36959,
+              "answers": [
+                {
+                  "answer_id": 37288,
+                  "document_id": 41454,
+                  "question_id": 36959,
+                  "text": "iniciará exercícios de extensão e flexão da sua perna operada.",
+                  "answer_start": 23,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Posso esticar a perna?",
+              "id": 36960,
+              "answers": [
+                {
+                  "answer_id": 37289,
+                  "document_id": 41454,
+                  "question_id": 36960,
+                  "text": "iniciará exercícios de extensão e flexão da sua perna operada.",
+                  "answer_start": 23,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Durante o internamento iniciará exercícios de extensão e flexão da sua perna operada.",
+          "document_id": 41454
+        }
+      ]
+    }
+  ]
+}

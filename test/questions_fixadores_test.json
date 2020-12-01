@@ -1,0 +1,430 @@
+{
+  "data": [
+    {
+      "title": "Quais são os sinais de alarme para recorrer ao médico?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais os procedimentos pré-cirurgia?",
+              "id": 38705,
+              "answers": [
+                {
+                  "answer_id": 39057,
+                  "document_id": 42017,
+                  "question_id": 38705,
+                  "text": "consultas com o seu médico",
+                  "answer_start": 3,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "As consultas com o seu médico servem para acompanhar tanto a evolução da cicatrização do osso como para a vigilância de todo o membro, daí a importância de não faltar.\nÉ importante ter em conta que as seguintes situações exigem observação:\nSaída de pus pelo local de inserção dos fixadores;\nCheiro fétido;\nAgudização da dor subitamente;\nEdema acentuado do membro mesmo cumprindo repouso;\nRubor e calor acentuado;\nApós traumatismo do membro já com fixadores;\nAproveite a vigilância no centro de saúde para expor as suas dúvidas e informar os sintomas que considere relevantes, para que as situações possam ser vigiadas e analisadas o mais cedo possível.",
+          "document_id": 42017
+        }
+      ]
+    },
+    {
+      "title": "Podem ocorrer complicações durante a utilização dos fixadores?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Poderei ter um dia-a-dia normal?",
+              "id": 38701,
+              "answers": [
+                {
+                  "answer_id": 39060,
+                  "document_id": 42016,
+                  "question_id": 38701,
+                  "text": " complicação mais frequente é a infeção no local de inserção dos fixadores. ",
+                  "answer_start": 1,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais possíveis complicações podem surgir devido aos fixadores externos?",
+              "id": 38703,
+              "answers": [
+                {
+                  "answer_id": 39059,
+                  "document_id": 42016,
+                  "question_id": 38703,
+                  "text": "infeção",
+                  "answer_start": 33,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais os principais danos secundários ou complicações que aqueles fixadores podem provocar?",
+              "id": 38699,
+              "answers": [
+                {
+                  "answer_id": 39062,
+                  "document_id": 42016,
+                  "question_id": 38699,
+                  "text": "infeção no local de inserção dos fixadores",
+                  "answer_start": 33,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Complicações comuns?",
+              "id": 38704,
+              "answers": [
+                {
+                  "answer_id": 39058,
+                  "document_id": 42016,
+                  "question_id": 38704,
+                  "text": " infeção no local de inserção dos fixadores",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A complicação mais frequente é a infeção no local de inserção dos fixadores. Porém, ela pode ser prevenida com a limpeza diária destes locais e mantendo a pele de todo o membro o mais limpa possível.",
+          "document_id": 42016
+        }
+      ]
+    },
+    {
+      "title": "É necessário fazer pensos no centro de saúde até remover os fixadores externos?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vou ter que fazer fisioterapia?",
+              "id": 38697,
+              "answers": [
+                {
+                  "answer_id": 39064,
+                  "document_id": 42015,
+                  "question_id": 38697,
+                  "text": "numa fase mais avançada precisará",
+                  "answer_start": 301,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Será um processo doloroso retirar os fixadores?",
+              "id": 38702,
+              "answers": [
+                {
+                  "answer_id": 39066,
+                  "document_id": 42015,
+                  "question_id": 38702,
+                  "text": "Pode ter feridas suturadas ou feridas resultantes do traumatismo que necessitem de tratamento.",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Aqueles fixadores externos são susceptíveis de provocar dor?",
+              "id": 38700,
+              "answers": [
+                {
+                  "answer_id": 39065,
+                  "document_id": 42015,
+                  "question_id": 38700,
+                  "text": "Pode ter feridas suturadas ou feridas resultantes do traumatismo que necessitem de tratamento.",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Pode ter feridas suturadas ou feridas resultantes do traumatismo que necessitem de tratamento. O local de inserção dos pinos também necessita inicialmente de tratamento e acompanhamento. O seu enfermeiro irá orienta-lo. Espera-se que a zona de inserção dos fixadores cicatrize tipo “brinco”, pelo que numa fase mais avançada precisará apenas de fazer a limpeza diária e proteger a zona.",
+          "document_id": 42015
+        }
+      ]
+    },
+    {
+      "title": "Que cuidados tenho que ter em casa?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vou ficar 100% curado?",
+              "id": 38693,
+              "answers": [
+                {
+                  "answer_id": 39071,
+                  "document_id": 42014,
+                  "question_id": 38693,
+                  "text": "até indicação médica",
+                  "answer_start": 704,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que cuidados tenho de ter se apanhar com água?",
+              "id": 38696,
+              "answers": [
+                {
+                  "answer_id": 39067,
+                  "document_id": 42014,
+                  "question_id": 38696,
+                  "text": "Caso ainda haja ferida deve proteger todo o membro durante o banho (coloque saco de plástico);",
+                  "answer_start": 322,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais os cuidados a ter durante a recuperação?",
+              "id": 38694,
+              "answers": [
+                {
+                  "answer_id": 39070,
+                  "document_id": 42014,
+                  "question_id": 38694,
+                  "text": " repouso é importante para prevenir a dor e o edema (inchaço);\nDeve manter o membro elevado o máximo tempo possível ou sempre que ele se encontre com edema;\nCaso ainda haja ferida deve proteger todo o membro durante o banho (coloque saco de plástico);\nLimpe diariamente o local de inserção dos fixadores com compressa embebida em álcool;\nSe tem animais em casa, todo a zona deve estar protegida quando estiver em contacto com os mesmos. É importante também, nestes casos, fazer reforço da limpeza dos fixadores;\nNão fazer carga no membro, até indicação médica;\nVerificar o estado das borrachas das canadianas para prevenir quedas;\nNão falte às consultas marcadas;",
+                  "answer_start": 165,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Tem de ser intervencionada cirurgicamente obrigatoriamente?",
+              "id": 38698,
+              "answers": [
+                {
+                  "answer_id": 39068,
+                  "document_id": 42014,
+                  "question_id": 38698,
+                  "text": "até indicação médica",
+                  "answer_start": 704,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vou ficar com cicatriz?",
+              "id": 38691,
+              "answers": [
+                {
+                  "answer_id": 39073,
+                  "document_id": 42014,
+                  "question_id": 38691,
+                  "text": "ainda haja ferida deve proteger todo o membro",
+                  "answer_start": 327,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que cuidados de higiene tenho de ter comos fixadores?",
+              "id": 38692,
+              "answers": [
+                {
+                  "answer_id": 39072,
+                  "document_id": 42014,
+                  "question_id": 38692,
+                  "text": "Limpe diariamente o local de inserção dos fixadores com compressa embebida em álcool;",
+                  "answer_start": 417,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Posso praticar desporto?",
+              "id": 38695,
+              "answers": [
+                {
+                  "answer_id": 39069,
+                  "document_id": 42014,
+                  "question_id": 38695,
+                  "text": "é importante não esquecer:\nO repouso é importante para prevenir a dor e o edema (inchaço",
+                  "answer_start": 137,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ainda durante o internamento a equipa de enfermagem faz os ensinos e ajuda-o a praticar os cuidados que terá que ter em casa, no entanto é importante não esquecer:\nO repouso é importante para prevenir a dor e o edema (inchaço);\nDeve manter o membro elevado o máximo tempo possível ou sempre que ele se encontre com edema;\nCaso ainda haja ferida deve proteger todo o membro durante o banho (coloque saco de plástico);\nLimpe diariamente o local de inserção dos fixadores com compressa embebida em álcool;\nSe tem animais em casa, todo a zona deve estar protegida quando estiver em contacto com os mesmos. É importante também, nestes casos, fazer reforço da limpeza dos fixadores;\nNão fazer carga no membro, até indicação médica;\nVerificar o estado das borrachas das canadianas para prevenir quedas;\nNão falte às consultas marcadas;",
+          "document_id": 42014
+        }
+      ]
+    },
+    {
+      "title": "Qual é o objetivo dos fixadores externos?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quanto tempo terei que os manter?",
+              "id": 38686,
+              "answers": [
+                {
+                  "answer_id": 39077,
+                  "document_id": 42012,
+                  "question_id": 38686,
+                  "text": "temporário ou definitivo",
+                  "answer_start": 161,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais as causas?",
+              "id": 38688,
+              "answers": [
+                {
+                  "answer_id": 39076,
+                  "document_id": 42012,
+                  "question_id": 38688,
+                  "text": "fraturas expostas ou complexas",
+                  "answer_start": 205,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo demora?",
+              "id": 38689,
+              "answers": [
+                {
+                  "answer_id": 39075,
+                  "document_id": 42012,
+                  "question_id": 38689,
+                  "text": "temporário ou definitivo",
+                  "answer_start": 161,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo vou ter os fixadores externos?",
+              "id": 38687,
+              "answers": [
+                {
+                  "answer_id": 39078,
+                  "document_id": 42012,
+                  "question_id": 38687,
+                  "text": "tratamento temporário ou definitivo",
+                  "answer_start": 150,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Serão colocadas por tempo indefinido ou serão removidas em breve?",
+              "id": 38690,
+              "answers": [
+                {
+                  "answer_id": 39074,
+                  "document_id": 42012,
+                  "question_id": 38690,
+                  "text": "temporário ou definitivo",
+                  "answer_start": 161,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Os fixadores externos são aparelhos que permitem manter a estabilidade e estrutura do osso durante a consolidação do mesmo. Podem ser utilizados como tratamento temporário ou definitivo. São utilizados em fraturas expostas ou complexas. Este tratamento evita a lesão adicional às partes moles traumatizadas dando estabilidade à lesão óssea sem prejudicar a circulação sanguínea circundante.",
+          "document_id": 42012
+        }
+      ]
+    },
+    {
+      "title": "O que são os fixadores externos?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Gostaria de saber mais informações acerca dos procedimentos da colocação destes fixadores externos.",
+              "id": 38707,
+              "answers": [
+                {
+                  "answer_id": 39079,
+                  "document_id": 42018,
+                  "question_id": 38707,
+                  "text": "fraturas expostas ou complexas",
+                  "answer_start": 205,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "O meu osso vai recuperar totalmente desta fratura?",
+              "id": 38709,
+              "answers": [
+                {
+                  "answer_id": 39081,
+                  "document_id": 42018,
+                  "question_id": 38709,
+                  "text": "permitem manter a estabilidade e estrutura do osso durante a consolidação do mesmo",
+                  "answer_start": 40,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo ficarei internado no hospital?",
+              "id": 38710,
+              "answers": [
+                {
+                  "answer_id": 39082,
+                  "document_id": 42018,
+                  "question_id": 38710,
+                  "text": "temporário",
+                  "answer_start": 161,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apesar de serem externos, de que forma são fixados para permitir a desejada estabilização?",
+              "id": 38711,
+              "answers": [
+                {
+                  "answer_id": 39083,
+                  "document_id": 42018,
+                  "question_id": 38711,
+                  "text": "permitem manter a estabilidade e estrutura do osso durante a consolidação do mesmo",
+                  "answer_start": 40,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Os fixadores externos são aparelhos que permitem manter a estabilidade e estrutura do osso durante a consolidação do mesmo. Podem ser utilizados como tratamento temporário ou definitivo. São utilizados em fraturas expostas ou complexas.",
+          "document_id": 42018
+        }
+      ]
+    }
+  ]
+}

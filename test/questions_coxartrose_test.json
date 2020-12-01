@@ -1,0 +1,658 @@
+{
+  "data": [
+    {
+      "title": "Como se faz o diagnóstico?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais os procedimentos pré-cirurgia?",
+              "id": 36874,
+              "answers": [
+                {
+                  "answer_id": 37219,
+                  "document_id": 41424,
+                  "question_id": 36874,
+                  "text": "radiografia.",
+                  "answer_start": 64,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Como identificar que sofro de artrose da anca?",
+              "id": 36883,
+              "answers": [
+                {
+                  "answer_id": 37220,
+                  "document_id": 41424,
+                  "question_id": 36883,
+                  "text": "através de exame médico e de uma radiografia",
+                  "answer_start": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "É possível fazer o diagnóstico através de exame médico e de uma radiografia.",
+          "document_id": 41424
+        }
+      ]
+    },
+    {
+      "title": "Como levantar-me da cama?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Como deve ser a cama?",
+              "id": 36903,
+              "answers": [
+                {
+                  "answer_id": 37244,
+                  "document_id": 41430,
+                  "question_id": 36903,
+                  "text": "alta para facilitar o movimento.",
+                  "answer_start": 16,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A cama deve ser alta para facilitar o movimento.\nPelo lado bom, deitado de costas, com os joelhos ligeiramente flectidos (não mais do que 30º), tendo sempre uma almofada entre os joelhos, rodar em bloco para o lado são, deslocando-se para a beira da cama. Faz carga no cotovelo que fica junto ao colchão para ajudar a iniciar o levante para a posição de sentado, ao mesmo tempo que põe as pernas para fora da cama. Apoiar a perna boa no chão e levantar o corpo, mantendo a perna operada esticada.",
+          "document_id": 41430
+        }
+      ]
+    },
+    {
+      "title": "Quanto tempo vou precisar de recuperação?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Irei enfrentar um período de recuperação se fizer operação?",
+              "id": 36908,
+              "answers": [
+                {
+                  "answer_id": 37259,
+                  "document_id": 41440,
+                  "question_id": 36908,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual o procedimento de recuperação?",
+              "id": 36909,
+              "answers": [
+                {
+                  "answer_id": 37260,
+                  "document_id": 41440,
+                  "question_id": 36909,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo de recuperação?",
+              "id": 36910,
+              "answers": [
+                {
+                  "answer_id": 37261,
+                  "document_id": 41440,
+                  "question_id": 36910,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo depois da cirurgia posso voltar a fazer exercícios físicos?",
+              "id": 36911,
+              "answers": [
+                {
+                  "answer_id": 37262,
+                  "document_id": 41440,
+                  "question_id": 36911,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Tempo de recuperação?",
+              "id": 36912,
+              "answers": [
+                {
+                  "answer_id": 37263,
+                  "document_id": 41440,
+                  "question_id": 36912,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual o tempo de recuperação?",
+              "id": 36913,
+              "answers": [
+                {
+                  "answer_id": 37264,
+                  "document_id": 41440,
+                  "question_id": 36913,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo durará a recuperação?",
+              "id": 36914,
+              "answers": [
+                {
+                  "answer_id": 37265,
+                  "document_id": 41440,
+                  "question_id": 36914,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual o período de recuperação pós-cirurgia?",
+              "id": 36915,
+              "answers": [
+                {
+                  "answer_id": 37266,
+                  "document_id": 41440,
+                  "question_id": 36915,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual o tempo de recuperação, após a cirurgia?",
+              "id": 36916,
+              "answers": [
+                {
+                  "answer_id": 37267,
+                  "document_id": 41440,
+                  "question_id": 36916,
+                  "text": "90 a 180 dias.",
+                  "answer_start": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "O tempo de recuperação varia de 90 a 180 dias.",
+          "document_id": 41440
+        }
+      ]
+    },
+    {
+      "title": "O que é uma Prótese Total da Anca?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Como seria feita essa operação?",
+              "id": 36898,
+              "answers": [
+                {
+                  "answer_id": 37235,
+                  "document_id": 41426,
+                  "question_id": 36898,
+                  "text": "prótese total da anca é constituída por duas partes: uma que encaixa na cavidade da bacia e outra que vai substituir a extremidade do fémur.",
+                  "answer_start": 2,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quais os procedimentos duma cirurgia deste tipo?",
+              "id": 36896,
+              "answers": [
+                {
+                  "answer_id": 37234,
+                  "document_id": 41426,
+                  "question_id": 36896,
+                  "text": "prótese total da anca é constituída por duas partes: uma que encaixa na cavidade da bacia e outra que vai substituir a extremidade do fémur.",
+                  "answer_start": 2,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A prótese total da anca é constituída por duas partes: uma que encaixa na cavidade da bacia e outra que vai substituir a extremidade do fémur.",
+          "document_id": 41426
+        }
+      ]
+    },
+    {
+      "title": "Tenho uma injeção e medicação diária para fazer, para que serve?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Que medicação vou tomar?",
+              "id": 36871,
+              "answers": [
+                {
+                  "answer_id": 37268,
+                  "document_id": 41442,
+                  "question_id": 36871,
+                  "text": "uma injeção que é um anticoagulante",
+                  "answer_start": 10,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Vai tomar uma injeção que é um anticoagulante, utilizado para prevenir o aparecimento de coágulos sanguíneos.",
+          "document_id": 41442
+        }
+      ]
+    },
+    {
+      "title": "Quanto tempo vou ficar no Hospital?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vou ficar muito tempo no Hospital?",
+              "id": 36905,
+              "answers": [
+                {
+                  "answer_id": 37254,
+                  "document_id": 41439,
+                  "question_id": 36905,
+                  "text": "2 a 4 dias.",
+                  "answer_start": 45,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quanto tempo de internamento no hospital?",
+              "id": 36906,
+              "answers": [
+                {
+                  "answer_id": 37255,
+                  "document_id": 41439,
+                  "question_id": 36906,
+                  "text": "2 a 4 dias.",
+                  "answer_start": 45,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Esta cirurgia requere internamento?",
+              "id": 36907,
+              "answers": [
+                {
+                  "answer_id": 37256,
+                  "document_id": 41439,
+                  "question_id": 36907,
+                  "text": "2 a 4 dias.",
+                  "answer_start": 45,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Habitualmente os pacientes ficam no Hospital 2 a 4 dias.",
+          "document_id": 41439
+        }
+      ]
+    },
+    {
+      "title": "Quais os sintomas?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais as causas?",
+              "id": 36873,
+              "answers": [
+                {
+                  "answer_id": 37217,
+                  "document_id": 41423,
+                  "question_id": 36873,
+                  "text": "rigidez articular que se manifesta pela dificuldade no agachamento",
+                  "answer_start": 222,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "O sintoma que surge em primeiro lugar é a dor que se localiza normalmente na virilha, mas também pode localizar-se na coxa, nádega, região lateral da anca e até mesmo no joelho.\nCom o desenvolvimento da doença pode surgir rigidez articular que se manifesta pela dificuldade no agachamento, no calçar os sapatos ou meias e na alteração da marcha.",
+          "document_id": 41423
+        }
+      ]
+    },
+    {
+      "title": "O que é a Coxartrose (artrose da anca)?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "O que é a coxartrose?",
+              "id": 36902,
+              "answers": [
+                {
+                  "answer_id": 37218,
+                  "document_id": 41422,
+                  "question_id": 36902,
+                  "text": "É o desgaste da cartilagem articular da bacia e da cabeça do fémur",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "É o desgaste da cartilagem articular da bacia e da cabeça do fémur que provoca uma remodelação do osso subcondral e a formação de osteófitos.",
+          "document_id": 41422
+        }
+      ]
+    },
+    {
+      "title": "Qual o tratamento?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "O que pode ser feito para precaver?",
+              "id": 36878,
+              "answers": [
+                {
+                  "answer_id": 37232,
+                  "document_id": 41425,
+                  "question_id": 36878,
+                  "text": "a pessoa deve evitar esforços e exercícios com carga nos membros inferiores.",
+                  "answer_start": 99,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Tem de ser intervencionada cirurgicamente obrigatoriamente?",
+              "id": 36876,
+              "answers": [
+                {
+                  "answer_id": 37231,
+                  "document_id": 41425,
+                  "question_id": 36876,
+                  "text": "Nas situações mais avançadas é necessário recorrer à cirurgia de aplicação de Prótese total da anca.",
+                  "answer_start": 430,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Existem outras opções de tratamento que não implantação de uma prótese?",
+              "id": 36882,
+              "answers": [
+                {
+                  "answer_id": 37233,
+                  "document_id": 41425,
+                  "question_id": 36882,
+                  "text": "O tratamento será sempre decidido pelo seu médico.",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "O tratamento será sempre decidido pelo seu médico.\nNuma fase inicial o tratamento não é cirúrgico, a pessoa deve evitar esforços e exercícios com carga nos membros inferiores.\nÉ importante manter a mobilização da articulação e o fortalecimento muscular.\nPode ser necessário controlar a dor com medicação de acordo com indicação médica.\nNesta situação é muito importante o controle do peso, caso haja necesidade deve fazer dieta. \nNas situações mais avançadas é necessário recorrer à cirurgia de aplicação de Prótese total da anca.",
+          "document_id": 41425
+        }
+      ]
+    },
+    {
+      "title": "Como posso preparar e manter o fortalecimento muscular?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual o processo de recuperação?",
+              "id": 36899,
+              "answers": [
+                {
+                  "answer_id": 37236,
+                  "document_id": 41427,
+                  "question_id": 36899,
+                  "text": "programa de reabilitação com o fisioterapeuta.",
+                  "answer_start": 110,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Aprender a praticar alguns exercícios para fortalecimento muscular, facilita o seu período pós-operatório e o programa de reabilitação com o fisioterapeuta.\nAprender a andar com canadianas antes de ser operado facilita o seu período pós-operatório e o programa de reabilitação.\nEm caso de dúvida aconselhe-se com o seu médico ortopedista nas consultas de pré operatório.",
+          "document_id": 41427
+        }
+      ]
+    },
+    {
+      "title": "Como andar normalmente ou com canadianas?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual o risco de não voltar a andar?",
+              "id": 36879,
+              "answers": [
+                {
+                  "answer_id": 37250,
+                  "document_id": 41433,
+                  "question_id": 36879,
+                  "text": "A pessoa deverá iniciar marcha com auxiliares de marcha (andarilho, canadianas)",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vou recuperar a mobilidade total?",
+              "id": 36894,
+              "answers": [
+                {
+                  "answer_id": 37252,
+                  "document_id": 41433,
+                  "question_id": 36894,
+                  "text": "deverá iniciar marcha com auxiliares de marcha (andarilho, canadianas) o mais precocemente possível",
+                  "answer_start": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quando posso voltar a andar normalmente?",
+              "id": 36869,
+              "answers": [
+                {
+                  "answer_id": 37246,
+                  "document_id": 41433,
+                  "question_id": 36869,
+                  "text": "o mais precocemente possível, mas sem fazer força na perna operada.",
+                  "answer_start": 80,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vou mancar/ter dores ao andar?",
+              "id": 36870,
+              "answers": [
+                {
+                  "answer_id": 37247,
+                  "document_id": 41433,
+                  "question_id": 36870,
+                  "text": "A pessoa deverá iniciar marcha com auxiliares de marcha (andarilho, canadianas)",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vou conseguir voltar a andar normalmente?",
+              "id": 36872,
+              "answers": [
+                {
+                  "answer_id": 37248,
+                  "document_id": 41433,
+                  "question_id": 36872,
+                  "text": "sem fazer força na perna operada.",
+                  "answer_start": 114,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vai melhorar a minha mobilidade?",
+              "id": 36887,
+              "answers": [
+                {
+                  "answer_id": 37251,
+                  "document_id": 41433,
+                  "question_id": 36887,
+                  "text": "deverá iniciar marcha com auxiliares de marcha (andarilho, canadianas) o mais precocemente possível",
+                  "answer_start": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vou mancar/ter dores ao andar?",
+              "id": 36901,
+              "answers": [
+                {
+                  "answer_id": 37253,
+                  "document_id": 41433,
+                  "question_id": 36901,
+                  "text": "sem fazer força na perna operada.",
+                  "answer_start": 114,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A pessoa deverá iniciar marcha com auxiliares de marcha (andarilho, canadianas) o mais precocemente possível, mas sem fazer força na perna operada.",
+          "document_id": 41433
+        }
+      ]
+    },
+    {
+      "title": "Que cuidados devo ter com Prótese da Anca?",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Depois de instalada a prótese seria preciso fazer alguma manutenção regularmente?",
+              "id": 36884,
+              "answers": [
+                {
+                  "answer_id": 37238,
+                  "document_id": 41428,
+                  "question_id": 36884,
+                  "text": "É fundamental respeitar sempre estes cuidados básicos",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que complicações existem?",
+              "id": 36888,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Que complicações podem advir da cirurgia?",
+              "id": 36893,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "O que mudará e quais os cuidados a ter pós-cirurgia?",
+              "id": 36895,
+              "answers": [
+                {
+                  "answer_id": 37242,
+                  "document_id": 41428,
+                  "question_id": 36895,
+                  "text": "Não rodar a perna operada para dentro ou para fora;\nNão rodar demasiado os pés para dentro ou para fora;\nNão apoiar todo o peso do corpo na perna operada;\nNão se sentar em cadeiras ou sofás baixos;\nNão elevar o joelho acima da anca enquanto estiver sentado ou a sentar-se;\nNão dobrar o joelho da perna operada a mais do que 90º;\nNão se inclinar para a frente;\nNão apanhar objetos do chão;\nNão puxar os lençóis ou cobertores dos pés da cama enquanto estiver deitado;\nNão deitar sobre o lado operado;\nNão cruzar as pernas;\nNão usar a dor como referência do que pode ou não fazer;\nNão administrar injetáveis no lado operado;\nEvitar o excesso de peso;\nNão compensar, sem ordem do médico, uma eventual desigualdade de comprimento das pernas.",
+                  "answer_start": 55,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Que cuidados principais deverá ter após implantação da prótese?",
+              "id": 36886,
+              "answers": [
+                {
+                  "answer_id": 37241,
+                  "document_id": 41428,
+                  "question_id": 36886,
+                  "text": "Não rodar a perna operada para dentro ou para fora;\nNão rodar demasiado os pés para dentro ou para fora;\nNão apoiar todo o peso do corpo na perna operada;\nNão se sentar em cadeiras ou sofás baixos;\nNão elevar o joelho acima da anca enquanto estiver sentado ou a sentar-se;\nNão dobrar o joelho da perna operada a mais do que 90º;\nNão se inclinar para a frente;\nNão apanhar objetos do chão;\nNão puxar os lençóis ou cobertores dos pés da cama enquanto estiver deitado;\nNão deitar sobre o lado operado;\nNão cruzar as pernas;\nNão usar a dor como referência do que pode ou não fazer;\nNão administrar injetáveis no lado operado;\nEvitar o excesso de peso;\nNão compensar, sem ordem do médico, uma eventual desigualdade de comprimento das pernas.",
+                  "answer_start": 55,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "É fundamental respeitar sempre estes cuidados básicos:\nNão rodar a perna operada para dentro ou para fora;\nNão rodar demasiado os pés para dentro ou para fora;\nNão apoiar todo o peso do corpo na perna operada;\nNão se sentar em cadeiras ou sofás baixos;\nNão elevar o joelho acima da anca enquanto estiver sentado ou a sentar-se;\nNão dobrar o joelho da perna operada a mais do que 90º;\nNão se inclinar para a frente;\nNão apanhar objetos do chão;\nNão puxar os lençóis ou cobertores dos pés da cama enquanto estiver deitado;\nNão deitar sobre o lado operado;\nNão cruzar as pernas;\nNão usar a dor como referência do que pode ou não fazer;\nNão administrar injetáveis no lado operado;\nEvitar o excesso de peso;\nNão compensar, sem ordem do médico, uma eventual desigualdade de comprimento das pernas.",
+          "document_id": 41428
+        }
+      ]
+    }
+  ]
+}
